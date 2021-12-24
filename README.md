@@ -6,6 +6,6 @@ Deixarei também um link para meu currículo, também com propósito de apresent
 
 ## 🚀Links
 
-* [Meu site](https://caiocpassos1.github.io/Site-Pessoal/)
-* [Meu currículo](https://caiocpassos1.github.io/Curriculo-Pessoal/)
+* [Meu site](https://caiocpassos.github.io/Site-Pessoal/)
+* [Meu currículo](https://caiocpassos.github.io/Curriculo-Pessoal/)
 
